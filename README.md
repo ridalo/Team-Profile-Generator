@@ -24,4 +24,4 @@ node index.js
 # Questions
 If you have any questions about the repo, open an issue or contact [ridalo](https://github.com/ridalo) directly [ridalo1989@gmail.com](mailto:ridalo1989@gmail.com).
 # Walkthrough Demo of App
-View at: 
+View at: https://watch.screencastify.com/v/8gQp8zP5YifslPKy3PI7
